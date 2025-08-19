@@ -1,2 +1,2 @@
 print("Hi buddy")
-print("\/")
+print("helo")
